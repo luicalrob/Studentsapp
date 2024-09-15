@@ -7,6 +7,7 @@ node.js: v22.8.0
 npm: 10.8.2
 
 Run the web:
+```bash
 npm install
 npm run dev
 
