@@ -9,7 +9,10 @@ npm: 10.8.2
 Run the web:
 ```bash
 npm install
+```
+```bash
 npm run dev
+```
 
 API not available, the web will not work
 
