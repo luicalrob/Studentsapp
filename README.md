@@ -7,10 +7,10 @@ node.js: v22.8.0
 npm: 10.8.2
 
 Run the web:
+
 `npm install`
-```bash
-npm run dev
-```
+
+`npm run dev`
 
 API not available, the web will not work
 
